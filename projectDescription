@@ -1,0 +1,61 @@
+Party Planning Community By Emilia and Theresa
+
+
+Two Parts:
+1. Event Planning 
+2. Event Execution
+
+
+Goals
+  1. Easily duplicating a party someone else already planned without having to go to multiple (often poorly documented) source
+
+  2. Finding venues which are appropriate and answering basic planning questions
+
+
+
+
+Features
+     Both at Home and Out of Home Events
+
+     -Boards with ideas for favors (etc) that are sorted by timeline of events: Day before, Morning of, During
+          Categorized by type of events with multiple contributors (community members)            
+          TECH INVOLVED: Maybe like Pinterest Widget or Rails tools
+
+     -DIY links to templates or tutorials on hosted sites
+
+     -Tip/Tricks
+
+     -Google API for RSVP
+          TECH INVOLVED: Google Calendar API
+
+     -Ability to save or "favorite" things
+
+     -Food and drink recipe suggestions
+
+     -User and Event profiles (many-to-many)
+          Gallery of real photos/ follow up sections with optional modification notes
+          TECH INVOLVED: Postgres (user pages)
+
+
+     For Out of Home Events
+     -Yelp search/ratings for suggested venues, service providers
+          TECH INVOLVED: Yelp API
+
+     -Venue posted information
+
+
+
+
+         * Events POC 
+         * Capacity
+         * Alcohol and catering policies
+         * Rough time for booking in advance
+         * Parking info     
+         * Kid-friendliness
+         * Rental space available
+         * Accompanying photos of this info
+
+
+
+
+
