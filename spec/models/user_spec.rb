@@ -1,5 +1,10 @@
 require 'spec_helper'
 
 describe User do
-  pending "add some examples to (or delete) #{__FILE__}"
+  it 'has an email address' do
+  	expect(subject).to respond_to(:email)
+  end
+  it 'has password_digest' do
+  	expect (subject).to respond_to(:password_digest)
+  end
 end
